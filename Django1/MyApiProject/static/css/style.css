@@ -1,0 +1,15 @@
+img{
+    height : 350px;
+    width : 350px;
+    margin-top : 200px;
+    margin-left: 100px;
+    box-shadow: 5px 5px 15px 3px black;
+    border-radius: 30px;
+
+}
+h1{
+    color: rgb(39, 14, 202);
+    margin-top: 80px;
+    font: optional;
+
+}
